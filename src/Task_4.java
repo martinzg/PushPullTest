@@ -8,6 +8,8 @@ public class Task_4 {
         System.out.println("Program creates array of 10 numbers and fills it with random numbers from 1 to 100!");
         System.out.println();
 
+        //Commit test;
+
         int arrayLength;
         int randomNumMin = 1;
         int randomNumMax = 100;
