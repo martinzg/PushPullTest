@@ -9,6 +9,7 @@ public class Task_4 {
         System.out.println();
 
         //Commit test;
+        //Update test;
 
         int arrayLength;
         int randomNumMin = 1;
