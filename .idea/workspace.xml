@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="004a7f83-360e-413f-b7e3-4d4e816829bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AddTestClass.java" afterPath="$PROJECT_DIR$/src/AddTestClass.java" />
     </list>
     <ignored path="Lesson_2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,6 +62,7 @@
         <option value="martinzg@inbox.lv" />
       </list>
     </option>
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -700,7 +700,7 @@
       <workItem from="1458149888427" duration="389000" />
       <workItem from="1458150301449" duration="480000" />
       <workItem from="1458150797266" duration="210000" />
-      <workItem from="1458153274795" duration="284000" />
+      <workItem from="1458153274795" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1458150517200</created>
@@ -720,15 +720,21 @@
       <option name="project" value="LOCAL" />
       <updated>1458153415445</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="conflict commit">
+      <created>1458153571857</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1458153571857</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1363000" />
+    <option name="totallyTimeSpent" value="1462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -771,7 +777,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="add class commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class commit" />
+    <MESSAGE value="conflict commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="conflict commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
