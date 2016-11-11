@@ -1,2 +1,3 @@
-james.can(Authenticate.withCredentials("username","password"));
-james.attemptsTo(Login.withCredentials());
+givenThat(james).wasAbleTo(openTheWebshop);
+when(james).attemptsTo(AddsToTheCart.theProducts("Product"));
+then(james)...;
