@@ -1,2 +1,2 @@
-tim.can(Authenticate.withCredentials("username","password"));
-tim.attemptsTo(Login.withCredentials());
+james.can(Authenticate.withCredentials("username","password"));
+james.attemptsTo(Login.withCredentials());
